@@ -35,9 +35,9 @@
 | :---:         |     :---      |          ---: |
 | `M3x6 screw`  | D435 and DCDC | 4 |
 | `M3x8 screw` | DCDC and UP2v2 | 7 |
-| `M3x10 screw` | D435 support    | 4    |
-| `M3 washer`   | git diff       | 13      |
-| `M2.5x6 screw` | UP2v2 on 3D printed part | 4|
+| `M3x10 screw` | D435 support    | 4 |
+| `M3 washer`   | git diff       | 13 |
+| `M2.5x6 screw` | UP2v2 on 3D printed part | 4 |
 | `M2.5x6+6 standoff` | Spacer required to mount the UP2v2 | 4 |
 | `M2.5 nut` | M2.5 nuts | 4 |
 
