@@ -22,10 +22,10 @@
 
 | Component | Description | Quantity |
 | :---:         |     :---      |          ---: |
-| `Intel Realsense bracket`  | [add link here]() | 1 |
-| `UP Squared v2 support` | [add link here]() | 1 |
-| `DCDC support` | [add link here]() | 1 |
-| `DCDC spacer` | [add link here]() | 2 |
+| `Intel Realsense bracket`  | [original model from iRobot docs](../mechanics/3d_parts/C3-RealSense-D435-Mount.stl) | 1 |
+| `UP Squared v2 support` | [an adapter to mount the UP2v2](../mechanics/3d_parts/adapter%20up2v2%20v2.stl) | 1 |
+| `DCDC support` | [an adapter to mount the dcdc](../mechanics/3d_parts/dcdc_support%20v3.stl) | 1 |
+| `DCDC spacer` | [spacers used to block dcdc](../mechanics/3d_parts/dcdc_spacer%20v1.stl) | 2 |
 
 
 
@@ -57,6 +57,15 @@
 - USB C to Ethernet adapter
     - Satechi USB hub
     - Amazon Basics Gigabit
+
+- Optional Compontents:
+    - Anker USB 3 Hub 4 ports
+    - Cable Matters HDMI angled extension
+
+
+## Note on building
+
+It could be easier to build the robot if you get one of box with all kind of M2.5 standoffs and M3 screws.
 
 
 

@@ -71,6 +71,9 @@ Using 2 WAGO221 or 2 screwed connectors connect:
 
 ![28](./images/upcreate3_assembly_00028.jpeg)
 
+Connections must follow this scheme:
+![electrical_scheme](../docs/schemes/electrical_connections.drawio.png)
+
 
 ## 8. Connect USB C to ethernet adapter
 
@@ -81,6 +84,7 @@ Plug the ethernet cable inside the adapter and place is as shown.
 
 _Optionally use some cable ties to fix cables_
 ![30](./images/upcreate3_assembly_00030.jpeg)
+
 
 ## 9. Connect the adapter board
 
