@@ -51,3 +51,5 @@ Put the switch on the USB logo, this will configure the iRobot Create® 3 to wor
 In the next part of assembly instructions you will be guided to the preration of the cargo bay.
 
 [Cargo bay preparation](02_cargo_bay.md)
+
+>Copyrights © 2022 G. Bruno gbr1.github.io under MIT License

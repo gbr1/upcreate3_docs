@@ -69,6 +69,7 @@ It could be easier to build the robot if you get one of box with all kind of M2.
 
 
 
+>Copyrights © 2022 G. Bruno gbr1.github.io under MIT License
 
 
 

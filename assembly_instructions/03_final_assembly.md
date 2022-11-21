@@ -63,6 +63,8 @@ Pass the cable also in the cover and fix it by turing clockwise.
 If you have mounted the optional hdmi angled adapter you will be able to connect you monitor through the slot. :D
 ![47](./images/upcreate3_assembly_00047.jpeg)
 
+>Copyrights © 2022 G. Bruno gbr1.github.io under MIT License
+
 
 
 

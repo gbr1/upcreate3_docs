@@ -101,3 +101,5 @@ Connect the USB A to USB C cable from the Intel Realsense box to the UP Squared 
 In the next part of assembly instructions you will be guided to the final assembly of the robot.
 
 [Final assembly](03_final_assembly.md)
+
+>Copyrights © 2022 G. Bruno gbr1.github.io under MIT License
