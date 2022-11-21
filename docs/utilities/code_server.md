@@ -23,5 +23,4 @@ Learn more at: [https://coder.com/docs/code-server/latest](https://coder.com/doc
 
 You can also install the ROS pluging in vscode, using the vsix file available on the Microsoft Website: [https://marketplace.visualstudio.com/items?itemName=ms-iot.vscode-ros](https://marketplace.visualstudio.com/items?itemName=ms-iot.vscode-ros)
 
-
-
+>Copyrights © 2022 G. Bruno gbr1.github.io under MIT License

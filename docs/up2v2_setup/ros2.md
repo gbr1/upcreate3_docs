@@ -69,3 +69,6 @@ colcon build --symlink-install
 
 echo "source ~/dev_ws/install/setup.bash " >> ~/.bashrc
 ```
+
+
+>Copyrights © 2022 G. Bruno gbr1.github.io under MIT License

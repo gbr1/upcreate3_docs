@@ -16,6 +16,7 @@ Docs about UP Create® 3, how to setup, add-ons and tutorials
 - [todo: setup all UP Create® 3 ROS2 packages]()
 
 ### Utilities
+- [VScode](./docs/utilities/vscode.md), an easy to use IDE to develop software when you attach keyboard and monitor to your UP Create® 3
 - [Code Server](./docs/utilities/code_server.md), develop software on UP Create® 3 with zero installation on client side
 - [Joypad](./docs/utilities/joypad.md), use a joypad to control the robot
 - [ROSboard](./docs/utilities/rosboard.md), use a webgui to watch data in Real-Time
@@ -24,6 +25,8 @@ Docs about UP Create® 3, how to setup, add-ons and tutorials
 
 ## Architecture
 
-The following scheme shows how robot works
+The following scheme shows robot's architecture
 ![overview](./docs/schemes/overview_scheme.drawio.png)
 
+
+>Copyrights © 2022 G. Bruno gbr1.github.io under MIT License

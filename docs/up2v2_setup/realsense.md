@@ -49,9 +49,7 @@ Attach you realsense camera.
 Run `realsense-viewer` to play with your camera, test it and update the firmware if required.
 
 
-
-
-
+>Copyrights © 2022 G. Bruno gbr1.github.io under MIT License
 
 
 

@@ -104,7 +104,7 @@ sudo apt install chrony
 
 Then edit the following file:
 ```bash
-
+sudo nano /etc/chrony/chrony.conf
 ```
 
 Add the following lines after the `pool #.ubuntu.pool.ntp.org iburst maxsources #` block
@@ -121,7 +121,12 @@ Save the file, then:
 sudo service chrony restart
 ```
 
-Turn off UP2v2:
+Check if everything is ok by:
+```bash
+sudo chronyc clients
+```
+
+If `192.168.186.2` doesn't appear, turn off UP2V2:
 
 ```bash
 sudo poweroff
@@ -129,4 +134,9 @@ sudo poweroff
 
 Then remove the robot from the dock and turn it off. After that reattach the robot to the dock to turn it on again.
 
+Check again with `chronyc clients`
+
 Learn more about this section at: [https://iroboteducation.github.io/create3_docs/setup/compute-ntp/](https://iroboteducation.github.io/create3_docs/setup/compute-ntp/)
+
+
+>Copyrights © 2022 G. Bruno gbr1.github.io under MIT License

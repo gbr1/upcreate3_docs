@@ -15,3 +15,5 @@ gh auth login
 follow the instructions to connect you github account
 
 Learn more at: [https://cli.github.com/](https://cli.github.com/)
+
+>Copyrights © 2022 G. Bruno gbr1.github.io under MIT License

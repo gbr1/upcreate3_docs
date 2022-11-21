@@ -16,3 +16,4 @@ After rebooting go in "Application" tab and select "Configuration" submenu.
 
 Set `RMW_IMPLEMENTATION:` `rmw_fastrtps_cpp` then save and restart application for changes to take effect.
 
+>Copyrights © 2022 G. Bruno gbr1.github.io under MIT License
