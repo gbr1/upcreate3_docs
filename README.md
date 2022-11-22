@@ -6,9 +6,9 @@ Documentation about UP Create® 3, how to setup, add-ons and how-to tutorials.
 
 ## Setup
 
-- [UP Square v2 preparation](./docs/up2v2_setup/up2v2_setup.md)
-- [Intel Realsense setup](./docs/up2v2_setup/realsense.md)
-- [iRobot Create® 3 setup](./docs/up2v2_setup/create3.md)
+- [Get Started](./docs/get_started.md)
+- [Assembly instructions](./assembly_instructions/01_preparation.md)
+- [UP Squared v2 setup](./docs/up2v2_setup/up2v2_setup.md)
 
 
 ## ROS2
