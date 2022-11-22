@@ -1,21 +1,24 @@
-# upcreate3_docs
-Docs about UP Create® 3, how to setup, add-ons and tutorials
+# UP Create® 3
 
-## Software
+Documentation about UP Create® 3, how to setup, add-ons and how-to tutorials.
 
-### Setup
+![gif](./assembly_instructions/images/upcreate3_nav.gif)
+
+## Setup
 
 - [UP Square v2 preparation](./docs/up2v2_setup/up2v2_setup.md)
 - [Intel Realsense setup](./docs/up2v2_setup/realsense.md)
 - [iRobot Create® 3 setup](./docs/up2v2_setup/create3.md)
 
 
-### ROS2
+## ROS2
+- [UP Create® 3 architecture](./docs/upcreate3/ros2_intro.md)
 - [ROS2 installation](./docs/up2v2_setup/ros2.md)
-- [environment preparation](./docs/upcreate3/prepare_ros2_environment.md)
-- [todo: setup all UP Create® 3 ROS2 packages]()
+- [setup all UP Create® 3 ROS2 packages](./docs/upcreate3/prepare_ros2_environment.md)
 
-### Utilities
+![ros2](./docs/schemes/ros2_architecture.drawio.png)
+
+## Utilities
 - [VScode](./docs/utilities/vscode.md), an easy to use IDE to develop software when you attach keyboard and monitor to your UP Create® 3
 - [Code Server](./docs/utilities/code_server.md), develop software on UP Create® 3 with zero installation on client side
 - [Joypad](./docs/utilities/joypad.md), use a joypad to control the robot
