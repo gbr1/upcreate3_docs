@@ -11,6 +11,13 @@
 
 ## Let's play!
 
+7. [Install ROS2 packages](./upcreate3/prepare_ros2_environment.md)
+8. [play](), coming soon
+
+
+<br>
+<br>
+<br>
 
 >Copyrights © 2022 G. Bruno gbr1.github.io under MIT License
 
