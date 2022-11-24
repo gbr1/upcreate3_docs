@@ -39,7 +39,7 @@ The following is the result.
 ![20](./images/upcreate3_assembly_00020.jpeg)
 
 
-## 6. DC-DC
+## 6. OPTIONAL: DC-DC
 
 Place the DC-DC adapter.
 ![21](./images/upcreate3_assembly_00021.jpeg)
@@ -78,6 +78,8 @@ Connections must follow this scheme:
 
 
 ## 8. Connect USB C to ethernet adapter
+
+***NOTE: If you need space, you can remove the 2 ballasts in the cargo bay. Some cables or USB C to ethernet adapter may need more space to be mounted. More information about iRobot Create® 3 mechanics can be obtained [here](https://iroboteducation.github.io/create3_docs/hw/mechanical/).***
 
 Now bring the USB C to Ethernet adapter.
 ![29](./images/upcreate3_assembly_00029.jpeg)
