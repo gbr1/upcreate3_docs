@@ -57,7 +57,6 @@ Secure using two 3d printed washers and 2 M3x6 screws.
 
 ## 7. Cables management
 
-
 Place cables as shown in photo.
 ![25](./images/upcreate3_assembly_00025.jpeg)
 
