@@ -21,7 +21,9 @@ If you want you can mount the usb angled extension adapter
 Attach the power jack. Take care about polarity (positive center) and size (5.5-2.1 mm)
 ![15](./images/upcreate3_assembly_00015.jpeg)
 
-## 5. Mount UP2v2 
+## 5. OPTIONAL: Mount UP2v2 
+
+_This step is not required to the correct functionalities of the robot._
 
 You need 3 M3x8 screws and if you want optional washers.
 ![16](./images/upcreate3_assembly_00016.jpeg)
@@ -51,7 +53,7 @@ Place the DC-DC as shown in the photo.
 Secure using two 3d printed washers and 2 M3x6 screws.
 ![24](./images/upcreate3_assembly_00024.jpeg)
 
-## 7. Cables management
+## 7. OPTIONAL: Cables management
 
 Place cables as shown in photo.
 ![25](./images/upcreate3_assembly_00025.jpeg)

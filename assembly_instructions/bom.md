@@ -14,19 +14,13 @@
 | `screw connectors or Wago221` | Classic mammut connectors or Wago221 | 4 |
 
 
-*Note: If you are using an UP Squared v1, connections are different.*
-
-
+*Note: If you are using an UP Squared v1, connections are differents and software may not work correctly. Use UP Squared v2.*
 
 ## 3D printed parts
 
 | Component | Description | Quantity |
 | :---:         |     :---      |          ---: |
 | `Intel Realsense bracket`  | [original model from iRobot docs](../mechanics/3d_parts/C3-RealSense-D435-Mount.stl) | 1 |
-| `UP Squared v2 support` | [an adapter to mount the UP2v2](../mechanics/3d_parts/adapter%20up2v2%20v2.stl) | 1 |
-| `DCDC support` | [an adapter to mount the dcdc](../mechanics/3d_parts/dcdc_support%20v3.stl) | 1 |
-| `DCDC spacer` | [spacers used to block dcdc](../mechanics/3d_parts/dcdc_spacer%20v1.stl) | 2 |
-
 
 
 ## Screws, nuts and others
@@ -49,6 +43,16 @@
 | `Angled HDMI extension adapter`  | an angled adapter to attach HDMI | 1 |
 | `Angled USB 3 extension cable` | an USB 3 left angled extension cable | 1 |
 | `USB 3 hub` | an USB 3 hub | 1 |
+
+## Optional: 3D printed parts
+
+This components can be used to fix electrical stuff inside the iRobot Create® 3 cargo bay
+
+| Component | Description | Quantity |
+| :---:         |     :---      |          ---: |
+| `UP Squared v2 support` | [an adapter to mount the UP2v2](../mechanics/3d_parts/adapter%20up2v2%20v2.stl) | 1 |
+| `DCDC support` | [an adapter to mount the dcdc](../mechanics/3d_parts/dcdc_support%20v3.stl) | 1 |
+| `DCDC spacer` | [spacers used to block dcdc](../mechanics/3d_parts/dcdc_spacer%20v1.stl) | 2 |
 
 
 

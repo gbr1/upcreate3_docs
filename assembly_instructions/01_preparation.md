@@ -1,6 +1,9 @@
 # 1. Initial Preparation
 
-## 1. UP2v2 preparation
+> ***NOTE: steps from 1 and 2 are optional***
+
+## 1. OPTIONAL: UP2v2 preparation
+_This step is not required to the correct functionalities of the robot._
 
 You need to mount the WiFi kit. Then remove the heatsink screws and mount standoffs.
 In this step you may want to swap to active heatsink.
@@ -12,7 +15,9 @@ In the following photo is shown a 6+6 standoff. Using a nut it can be used as a 
 ![02](./images/upcreate3_assembly_00002.jpeg)
 
 
-## 2. Mount the UP Squared v2 3d printed adapter
+## 2. OPTIONAL: Mount the UP Squared v2 3d printed adapter 
+
+_This step is not required to the correct functionalities of the robot._
 
 You need the UP2v2, 3d printed adapter and 4 M2.5x6 screws.
 ![03](./images/upcreate3_assembly_00003.jpeg)
