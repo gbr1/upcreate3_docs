@@ -41,6 +41,8 @@ The following is the result.
 
 ## 6. OPTIONAL: DC-DC
 
+_This step is not required to the correct functionalities of the robot._
+
 Place the DC-DC adapter.
 ![21](./images/upcreate3_assembly_00021.jpeg)
 
@@ -53,7 +55,8 @@ Place the DC-DC as shown in the photo.
 Secure using two 3d printed washers and 2 M3x6 screws.
 ![24](./images/upcreate3_assembly_00024.jpeg)
 
-## 7. OPTIONAL: Cables management
+## 7. Cables management
+
 
 Place cables as shown in photo.
 ![25](./images/upcreate3_assembly_00025.jpeg)
