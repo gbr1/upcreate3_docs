@@ -12,7 +12,10 @@
 ## Let's play!
 
 7. [Install ROS2 packages](./upcreate3/prepare_ros2_environment.md)
-8. [play](), coming soon
+8. [Play with UP Create 3](./upcreate3/run_the_robot.md)
+9. [Teleop with a joypad](./upcreate3/ros2_joy_teleop.md)
+9. [Autonomous exploration](./upcreate3/explore.md)
+
 
 
 <br>

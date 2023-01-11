@@ -15,6 +15,7 @@ Documentation about UP Create® 3, how to setup, add-ons and how-to tutorials.
 - [UP Create® 3 architecture](./docs/upcreate3/ros2_intro.md)
 - [ROS2 installation](./docs/up2v2_setup/ros2.md)
 - [setup all UP Create® 3 ROS2 packages](./docs/upcreate3/prepare_ros2_environment.md)
+- [use your UP Create® 3](./docs/upcreate3/run_the_robot.md)
 
 ![ros2](./docs/schemes/ros2_architecture.drawio.png)
 
@@ -23,7 +24,7 @@ Documentation about UP Create® 3, how to setup, add-ons and how-to tutorials.
 - [Code Server](./docs/utilities/code_server.md), develop software on UP Create® 3 with zero installation on client side
 - [Joypad](./docs/utilities/joypad.md), use a joypad to control the robot
 - [ROSboard](./docs/utilities/rosboard.md), use a webgui to watch data in Real-Time
-- [todo: FoxGlove](./docs/utilities/foxglove.md), a remote interface available on web, linux, macos and windows
+<!-- - [todo: FoxGlove](./docs/utilities/foxglove.md), a remote interface available on web, linux, macos and windows -->
 - [GitHub CLI](./docs/utilities/github_cli.md), use github on your robot
 
 ## Architecture
